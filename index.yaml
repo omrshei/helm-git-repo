@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-29T15:09:13.959258+02:00"
+    description: A git demo test
+    digest: 47882431d282eb1e10af7ebedcfb5a20a318c0c21c2b19ff7d2b33dc303031a1
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-29T15:09:13.958605+02:00"
